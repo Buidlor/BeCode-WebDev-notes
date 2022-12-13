@@ -1,4 +1,4 @@
-# **BeCode WebDev notes**
+
 ### *Linux Ubuntu*
 - Install linux ubuntu on wsl (ubuntu command line in windows): [Manual here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#3-download-ubuntu )
 *or*
