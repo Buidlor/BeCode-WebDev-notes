@@ -34,7 +34,7 @@
 - **Copy the key from the generated file and paste it in your github website under settings => SSH key**
 - Connect ssh to github: **ssh -T git@github.com**
 
-### *Hithub security token for HTTPS authentication:*
+### *Github security token for HTTPS authentication:*
 
 in github save a token under: **Settings => Developer settings => Personal access tokens => select all scopes => generate token**
 **git config --global credential.helper cache:** Save pw in cache 
