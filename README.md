@@ -72,7 +72,7 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - **Ctrl + ‘,’ :** goes to settings
 - **In settings type “Relative path ” and choose for ‘/’:** Uses forward slash(/) instead of backslash (\) as relative path separator when copy and pasting a path. 
 - **ctrl+k + ctrl+c / ctrl+u:** Comment and uncomment
-- **Alt+click: Several cursors:** 
+- **Alt+click:** Several cursors
 - **Ctrl + d:** Selects equal words and adds a cursor at it
 - **shift + alt + down:** Copy Paste line down 
 - **alt+up/down:** Move Line up/down 
