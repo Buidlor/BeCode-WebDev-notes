@@ -65,3 +65,19 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - **769px—1024px**: Small screens, laptops
 - **1025px—1200px**: Desktops, large screens
 - **1201px and more**: Extra large screens, TV
+
+
+### Useful shortcuts and settings in VSC:
+- mkdir ‘folder’ cd to the ‘folder’ ‘code .’: open VSC in the correct folder: 
+- Ctrl + ‘,’ : goes to settings
+- In settings type “Relative path ” and choose for ‘/’: Uses forward slash(/) instead of backslash (\) as relative path separator when copy and pasting a path. 
+- ctrl+k + ctrl+c / ctrl+u: Comment and uncomment
+- Alt+click: Several cursors: 
+- Ctrl + d: Selects equal words and adds a cursor at it
+- shift + alt + down: Copy Paste line down 
+- alt+up/down: Move Line up/down: 
+- select the word and ctrl+shift+f: Search for a word in the project
+- ALT+SHIFT + ’F’: format code in VSC.
+- Compare 2 files: 
+- Select 1st file, right click “select for compare”.
+- Select 2nd file, right click “compare with selected”
