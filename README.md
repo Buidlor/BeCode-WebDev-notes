@@ -48,6 +48,8 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - Templates: https://dribbble.com/
 - Icons: https://fontawesome.com/ 
 - Special text Fonts: https://www.cdnfonts.com/ 
+- Bootstrap cheat sheet: https://bootstrap-cheatsheet.themeselection.com/
+- Share maps with: https://www.google.com/maps/about/mymaps/
 
 ### *Css responsive code:*
 *Key example:* 
