@@ -44,7 +44,7 @@ Editor and viewer: [here](https://dillinger.io/)
 Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ultimate-markdown/) 
 
 ### *Html & css links:*
-- Automatic Scaling text: https://type-scale.com/ 
+- Automatic Scaling text: (https://type-scale.com/) 
 - Templates: https://dribbble.com/
 - Icons: https://fontawesome.com/ 
 - Special text Fonts: https://www.cdnfonts.com/ 
