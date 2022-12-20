@@ -44,12 +44,13 @@ Editor and viewer: [here](https://dillinger.io/)
 Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ultimate-markdown/) 
 
 ### *Html & css links:*
-- Automatic Scaling text: (https://type-scale.com/) 
-- Templates: https://dribbble.com/
-- Icons: https://fontawesome.com/ 
-- Special text Fonts: https://www.cdnfonts.com/ 
-- Bootstrap cheat sheet: https://bootstrap-cheatsheet.themeselection.com/
-- Share maps with: https://www.google.com/maps/about/mymaps/
+- Automatic Scaling text: [https://type-scale.com/](https://type-scale.com/) 
+- Templates: [https://dribbble.com/](https://dribbble.com/)
+- Icons: [https://fontawesome.com/](https://fontawesome.com/) 
+- Special text Fonts: [https://www.cdnfonts.com/](https://www.cdnfonts.com/) 
+- Bootstrap cheat sheet: [https://bootstrap-cheatsheet.themeselection.com/](https://bootstrap-cheatsheet.themeselection.com/)
+- Share maps with: [https://www.google.com/maps/about/mymaps/](https://www.google.com/maps/about/mymaps/)
+- Free images: [https://unsplash.com/](https://unsplash.com/)
 
 ### *Css responsive code:*
 *Key example:* 
