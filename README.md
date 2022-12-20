@@ -71,6 +71,7 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
  - Tailwind css.
  - Bootstrap [docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
  - Bootstrap [cheat sheet](https://bootstrap-cheatsheet.themeselection.com/)
+ - Bootstrap [crashcourse](https://youtu.be/4sosXZsdy-s)
 
 
 ### *Useful shortcuts and settings in VSC:*
