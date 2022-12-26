@@ -1,4 +1,3 @@
-
 ### *Linux Ubuntu*
 - Install linux ubuntu on wsl (ubuntu command line in windows): [Manual here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#3-download-ubuntu )
 *or*
@@ -89,3 +88,8 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - **Compare 2 files:** 
  Select 1st file, right click “select for compare”.
  Select 2nd file, right click “compare with selected”
+ 
+ ### *Node-js*
+ - npm: node packet manager
+ - nvm: node version manager
+ - totorial: https://www.youtube.com/watch?v=TlB_eWDSMt4
