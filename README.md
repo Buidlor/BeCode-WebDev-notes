@@ -93,3 +93,18 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
  - npm: node packet manager
  - nvm: node version manager
  - totorial: https://www.youtube.com/watch?v=TlB_eWDSMt4
+ 
+  ### *Rest-API*
+  - create new project. cd new project
+  - npm init
+  - npm i express mangoose
+  - npm i --save-dev dotenv nodemon
+  - in packages add: 
+  "scripts": {
+    "devStart":"nodemon server.js" 
+  },
+  - you will need to start the script with npm run devStart. It will restart the server each time you save.
+  - touch server.js, .env and .gitignore in root
+  - ignore .env node_modules (add it in .gitignore)
+  - rest client app extension on VSC to test API's
+  
