@@ -108,3 +108,5 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
   - ignore .env node_modules (add it in .gitignore)
   - rest client app extension on VSC to test API's
   
+    - for later: Quick REST API Creation using Node-Restful Library.
+    https://hostadvice.com/how-to/how-to-create-rest-api-with-node-express-and-mongoose/#paragraph4
