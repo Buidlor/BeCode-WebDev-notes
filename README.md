@@ -94,7 +94,7 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
  - nvm: node version manager
  - totorial: https://www.youtube.com/watch?v=TlB_eWDSMt4
  
-  ### *Rest-API*
+  ### *Backend*
   - create new project. cd new project
   - npm init
   - npm i express mangoose
