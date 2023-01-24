@@ -112,5 +112,18 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
     - Fullstack Authentication app [Tutorial](https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/) 
   
   #### Docker
-  - install Docker for desktop
-  - 
+  - Install Docker for desktop
+  - Start Docker desktop
+  - In CMD check `docker --version`
+  - In CMD check `docker-compose --version`
+  - Sign up, sign in **https://hub.docker.com/**
+  - You want to download the PHP image for example: On the hub click on search and type PHP
+  - Click on the official link. go to tags and choose a recent version. for example 8.1-rc-apache
+  - In the CMD type: `docker pull php:8.1-rc-apache `
+  - To check your available images on Docker in cmd: `docker images`
+  - To run the image type: `run -it --name php_cont php:8.1-rc-apache /bin/bash` (You have to do this in CMD, Git-bash f.e. wont work)
+  - Enter, you will be on the linux machine with PHP and apache.
+  - `exit` to Exit
+  - Check running machines with: `docker ps -a`
+  - To stop it: `docker stop php_cont`
+  - To remove it: `docker rm php_cont`
