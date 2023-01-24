@@ -129,3 +129,26 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - To remove it: `docker rm php_cont`
 - Check your PHP version in the docker: `docker run php:8.1-rc-apache php -v`
 - do the same but also delete the docker process after: `docker run --rm php:8.1-rc-apache php -v`
+
+### *PHP envirement with docker*
+- Create a new folder for your project: `mkdir PHP-Example` > `cd PHP-Example`
+- Create an index.php file with some `hello world`-display inside.
+- Create a Dockerfile (`touch Dockerfile`). No need for extension.
+- Both files in the root directory
+- We are using our example image that wez pulled earlier *php:8.1-rc-apache* to create the dockerfile. 
+- Create your Dockerfile. [For PHP](https://hub.docker.com/_/php)
+- Dockerfile should look like : 
+  ```
+  FROM php:8.1-rc-apache
+  COPY . /usr/src/myapp
+  WORKDIR /usr/src/myapp
+  CMD [ "php", "./index.php" ]
+  ```
+- Now you need to build the image: `docker build -t myimage .`  (Don't forget the '.')
+- Run the container now with: `docker run -p 8080:80 myimage`
+
+
+
+
+
+
