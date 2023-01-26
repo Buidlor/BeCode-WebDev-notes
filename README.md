@@ -147,6 +147,8 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - Now you need to build the image: `docker build -t myimage .`  (Don't forget the '.')
 - Run the container now with: `docker run -p 8080:80 myimage`
 
+- *In the end just go to docker-env and do :  `docker-compose up -d ` 
+
 
 
 
