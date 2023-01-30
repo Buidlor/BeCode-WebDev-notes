@@ -149,6 +149,14 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 
 - *In the end just go to docker-env and do :  `docker-compose up -d ` 
 
+### *PHP remember*
+
+```
+echo '<pre>';
+print_r($countries);
+echo '</pre>';
+```
+
 
 
 
