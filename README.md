@@ -153,9 +153,21 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 ### MySQL
 
 If you want to update the database with your 'mydb.sql' script after you have deployed docker:
--  `winpty docker exec -it f709468a13d8 bash`: access your dockers command line. It must be the maria db docker instance.
+- `docker ps`: check running docker processes
+- `winpty docker exec -it *process ID* bash`: access your dockers command line. It must be the maria db docker instance.
 - `cd docker-entrypoint-initdb.d`: Go to dir where mydb.sql.
 - `mysql -u root mydb -p < mydb.sql`: acces the db and run the mydb.sql script. (The pw is also 'root')
+
+Other way to push data in the database with the command line:
+- Access docker's comand line just like above.
+- `mysql -u root mydb -p`: Accesses Maria DB's CLI 
+- Populate the data like this: 
+```
+MariaDB [mydb]> INSERT INTO contactform (FirstName, SurName, Email, Subject, Message, Date)
+ --> VALUES ('John', 'Doe', 'johndoe@example.com', 'Hello', 'Hello, how are you?', NOW());
+```
+ 
+
 
 ### *PHP remember*
 
