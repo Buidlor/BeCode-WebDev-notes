@@ -149,6 +149,14 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 
 - *In the end just go to docker-env and do :  `docker-compose up -d ` 
 
+
+### MySQL
+
+If you want to update the database with your 'mydb.sql' script after you have deployed docker:
+-  `winpty docker exec -it f709468a13d8 bash`: access your dockers command line. It must be the maria db docker instance.
+- `cd docker-entrypoint-initdb.d`: Go to dir where mydb.sql.
+- `mysql -u root mydb -p < mydb.sql`: acces the db and run the mydb.sql script. (The pw is also 'root')
+
 ### *PHP remember*
 
 ```
