@@ -178,6 +178,11 @@ print_r($countries);
 echo '</pre>';
 ```
 
+### BUILD and deploy
+
+- If you are in typescript be carefull to solve all typing errors, otherwise your project will not build.
+- For your vite project use the command `npm run build` to start the building script.
+- In Package.json folder create a new script: `"start": "serve dist"`, this will run your builded project.
 
 
 
