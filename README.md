@@ -182,6 +182,7 @@ echo '</pre>';
 
 - If you are in typescript be carefull to solve all typing errors, otherwise your project will not build.
 - For your vite project use the command `npm run build` to start the building script.
+- install the serve package `npm install -g serve` if not installed on your computer.
 - In Package.json folder create a new script: `"start": "serve dist"`, this will run your builded project.
 
 
