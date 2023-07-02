@@ -110,7 +110,7 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
   
     - for later: Quick REST API Creation using Node-Restful Library. [Tutorial]( https://hostadvice.com/how-to/how-to-create-rest-api-with-node-express-and-mongoose/#paragraph4)
     - Fullstack Authentication app [Tutorial](https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/) 
-    - tmux for multiple CLI sessions on your VPS
+    - ### **tmux for multiple CLI sessions on your VPS**
   
 ### *Docker*
 - Install Docker for desktop
