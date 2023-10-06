@@ -131,7 +131,11 @@ Markdown cheat sheet: [here](https://cheatography.com/lucbpz/cheat-sheets/the-ul
 - Check your PHP version in the docker: `docker run php:8.1-rc-apache php -v`
 - do the same but also delete the docker process after: `docker run --rm php:8.1-rc-apache php -v`
 - `docker system df`: This command will show you the space used by images, containers, and volumes.
-- `docker system prune -a`: This command will remove all unused Docker objects. 
+- `docker system prune -a`: This command will remove all unused Docker objects.
+- `docker volume ls`: Lists volumes
+- `docker volume rm volume_name`: removes volume
+- `docker volume prune`: removes all unused volumes
+
 
 ### *PHP envirement with docker*
 - Create a new folder for your project: `mkdir PHP-Example` > `cd PHP-Example`
